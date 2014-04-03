@@ -7,4 +7,4 @@ It's time to change. I want to have full control of my web contents and have bet
 
 The result is this website [http://www.jofaichow.co.uk/](http://www.jofaichow.co.uk/) hosted on GitHub.
 
-![screenshot](http://i.imgur.com/FirHC5F.png)
+![screenshot](http://i.imgur.com/A83lNTz.jpg)
