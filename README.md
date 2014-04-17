@@ -13,7 +13,7 @@ The result is this bootstrap website [http://www.jofaichow.co.uk/](http://www.jo
 
 ## Second Attempt (Latest)
 
-![2nd](http://i.imgur.com/DOq44bM.jpg)
+![2nd](http://i.imgur.com/sJHtByz.png)
 
 
 ## Credits
