@@ -156,3 +156,41 @@ p.copyright {
     background: rgba(255,255,255,0.95);
     border-bottom: 3px solid rgba(0,0,0,0.1);
 }
+
+/* Callout */
+
+.callout {
+  color: #ffffff;
+  display: table;
+  height: 50px;
+  width: 100%;
+  vertical-align: middle;
+  background: url(../img/quote_001.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.callout h3 {
+  text-align: right;
+}
+
+/* Callout */
+
+.callout-code-crimemap {
+  color: #ffffff;
+  display: table;
+  height: 50px;
+  width: 100%;
+  vertical-align: middle;
+  background: url(../img/quote_002.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.callout-code-crimemap h3 {
+  text-align: right;
+}
