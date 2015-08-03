@@ -9,7 +9,7 @@ colours
 original
 #fed136 yellow 
 #fec503 second yellow
-#f6bf01
+#f6bf01 border
 
 new
 #c3092d virgin red
@@ -18,3 +18,5 @@ new
 #99999 GitHub Light Grey
 #2b82ad About me light blue (#3184AE out) (#7AABC4 Border)
 #0099e5 500px (#0093DD) (8BC8E7)
+
+#3399FF blue #47A3FF (lighter blue) #FF9933 (orange for border)
